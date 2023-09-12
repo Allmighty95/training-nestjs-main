@@ -1,0 +1,1 @@
+Describe the places module that refers continents, countries and states 

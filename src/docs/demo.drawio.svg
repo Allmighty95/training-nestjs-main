@@ -1,0 +1,107 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="462px" height="691px" viewBox="-0.5 -0.5 462 691" content="&lt;mxfile&gt;&lt;diagram id=&quot;pFyQye8GFx8NX_yixDE3&quot; name=&quot;Page-1&quot;&gt;zVnbcuMoEP0aPc6UJHSJH2Mnnt2t3ampylbtziORsEwVAhdCiT1fv42FLhhlRo4tZ18SdYNAHE4furGHVuX+i8S77V8iJ8wL/XzvoQcvDEOULOCf9hwaT4BS1HgKSXPj6x1P9AcxTt94a5qTyuqohGCK7mxnJjgnmbJ8WErxanfbCGbPusOFmdHvHU8ZZsTp9g/N1bbx3sWD3r8RWmzbmQPftJS47Wwc1Rbn4nXgQo8eWkkhVPNU7leEafRaXJr31m+0dh8mCVdTXkDmjRfMarO4vyWmnPICvF9Jpf54ggcvXcHfb1JkpBJ650gpzALUoUWleqUlwxyspRQ1z4meIwCrbVhTxlaCCQn+nGxwzZRuVVgqs8eRD46N4K0dRGC7a2o/mkhF9gOXWeMXIkqi5AG6mNZPQWQAP7SO1Dhe+w2MEuPbDjYvWRgnNqQputF7XOHBQDsOc+ig/DunGXUxhNeAxBpCXO0a6m7oXiN5gqkLCjobFWRjksYOIvEIIPEV8EAOHo+6ua5qLDUqviQFrZTEXph4sDJNi6OI8Jq8iOPCaeWtQu/edyC8Pk5BYgMVJC5SQTjGnStAFTlQ6XUv10fAdthbIe/+oYJnsgfEoMvaRWQryue6moVDQWxjE45hE41g0zkvASdw5csNqRy025hcHOUJ1isP/4Ltf45b87s2W+Nhb1kHY70NWCVqmRGL3CBrBVHWJupP+SmokjCs6It9zFwC0OJ9+OypGsAD1ndDGf3cg6ONwxCp2TBNXUzRR2GaOpg+kWMzrIBuaIb1gXmiW52y3VysRs652bTq7sJotHjT0+gi5oQuc9KPYk7ginlDHb4RstS8wRZZOg5BIqvTWS32S5TTosnBTngGia0EV9BGxqw0i2KLZZGPbkezwE0f5lT9Tg0HWtgr47gaTuNm5HIzuPpRYV79Jih8Si8TtkogFNsjNN9kXuq35l5KfBh02+kO1c+miUfn6Xe6GbHf926J06gQuxFFR8nwJ34GJYa8mtGCgzuDnSFQiSw150G02b1pKGmes2MRQyr6Az8fB9F7atYKI8ZLL36YkE51RD0Nq640NcN7w+pvtIDxP4fJXWph+ckMdSETtIIMR43sAcRmUxHlnYbnmduUjAtfJolWPcLalH4gZ7xtMLXALQ5PdBIWkR/eUNbcxGKSrBl5Cs6Qp3mTtTFZS2aRtXPlCKXjsnc1OXIzoK8jRf5HyVFLsGvIEVrYunGhGF1Vbs4te4RUW1EIjtlj7313Xvqe6mlaYAUjkRVePbImX2r9H4vvmYTml0oSLaYlUO9hs3t4ril3ob7p1eFJ/p8Ebpk52+WhW9/8Opi3qmSDKLzt7cYJGSdcIY1UrQ0NbhDX7eRv386SYaLGRXPrkU9L0EYOHxeNyQla7M93vQFm/0NME7f971no8T8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 460 40 L 460 18 Q 460 0 442 0 L 18 0 Q 0 0 0 18 L 0 40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 40 L 0 672 Q 0 690 18 690 L 442 690 Q 460 690 460 672 L 460 40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 40 L 460 40" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px">
+            <text x="229.5" y="25.5">
+                Training NestJS | Proceso demo
+            </text>
+        </g>
+        <ellipse cx="55" cy="100" rx="25" ry="25" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="54.5" y="104.5">
+                Inicio
+            </text>
+        </g>
+        <rect x="160" y="165" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="219.5" y="192.5">
+                El usuario registra
+            </text>
+            <text x="219.5" y="206.5">
+                el nuevo pais
+            </text>
+        </g>
+        <path d="M 185 300 L 212.93 272.07 Q 220 265 227.07 272.07 L 282.93 327.93 Q 290 335 282.93 342.07 L 227.07 397.93 Q 220 405 212.93 397.93 L 157.07 342.07 Q 150 335 157.07 327.93 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="219.5" y="339.5">
+                ¿El país existe?
+            </text>
+        </g>
+        <path d="M 220 225 L 220 258.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 220 263.88 L 216.5 256.88 L 220 258.63 L 223.5 256.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 220 130 L 220 158.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 220 163.88 L 216.5 156.88 L 220 158.63 L 223.5 156.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="160" y="70" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="219.5" y="97.5">
+                Se identifica
+            </text>
+            <text x="219.5" y="111.5">
+                el usuario
+            </text>
+        </g>
+        <path d="M 80 100 L 153.63 100" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 158.88 100 L 151.88 103.5 L 153.63 100 L 151.88 96.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="45" y="403" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="104.5" y="423.5">
+                Se informa al usuario
+            </text>
+            <text x="104.5" y="437.5">
+                con código de
+            </text>
+            <text x="104.5" y="451.5">
+                error 123
+            </text>
+        </g>
+        <path d="M 150 335 L 115 335 Q 105 335 105 345 L 105 396.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 105 401.88 L 101.5 394.88 L 105 396.63 L 108.5 394.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="130" y="325" width="12" height="14" stroke-width="0"/>
+            <text x="134.79" y="334.71">
+                Si
+            </text>
+        </g>
+        <rect x="310" y="402" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="369.5" y="429.5">
+                Se crea el pais
+            </text>
+            <text x="369.5" y="443.5">
+                en el registro
+            </text>
+        </g>
+        <path d="M 290 335 L 360 335 Q 370 335 370 345 L 370 395.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 370 400.88 L 366.5 393.88 L 370 395.63 L 373.5 393.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="328" y="329" width="16" height="14" stroke-width="0"/>
+            <text x="334.5" y="338.71">
+                No
+            </text>
+        </g>
+        <path d="M 105 463 L 105 625 Q 105 635 115 635 L 338.63 635" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 343.88 635 L 336.88 638.5 L 338.63 635 L 336.88 631.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 370 462 L 370 488.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 370 493.88 L 366.5 486.88 L 370 488.63 L 373.5 486.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="370" cy="635" rx="25" ry="25" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="369.5" y="639.5">
+                Fin
+            </text>
+        </g>
+        <path d="M 370 560 L 370 603.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 370 608.88 L 366.5 601.88 L 370 603.63 L 373.5 601.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="310" y="500" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="369.5" y="527.5">
+                El usuario es
+            </text>
+            <text x="369.5" y="541.5">
+                notificado
+            </text>
+        </g>
+    </g>
+</svg>
